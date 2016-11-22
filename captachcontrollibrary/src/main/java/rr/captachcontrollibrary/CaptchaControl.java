@@ -1,4 +1,4 @@
-package rr.captchagenerator;
+package rr.captachcontrollibrary;
 
 import android.content.Context;
 import android.graphics.Color;

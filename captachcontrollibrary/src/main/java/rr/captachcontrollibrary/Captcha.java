@@ -1,4 +1,4 @@
-package rr.captchagenerator;
+package rr.captachcontrollibrary;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

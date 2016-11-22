@@ -10,7 +10,7 @@
     tools:context="rr.captchagenerator.MainActivity">
 
     <view
-        class="rr.captchagenerator.CaptchaControl"
+        class="rr.captachcontrollibrary.CaptchaControl"
         android:id="@+id/ccRegistration"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -6,6 +6,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import rr.captachcontrollibrary.CaptchaControl;
+
 public class MainActivity extends AppCompatActivity {
 
     CaptchaControl ccRegistration;
