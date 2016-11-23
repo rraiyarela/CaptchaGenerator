@@ -3,13 +3,13 @@ Easy to implement Captcha Control
 
 To implement in your project modify your app build.gradle and add below lines and sync.
 
-repositories {
+`repositories {
     jcenter()
 }
 
 dependencies {
     compile 'rr.captachcontrollibrary:captachcontrollibrary:0.0.1'
-}
+}`
 
 Ones successfully synced, you can add captcha control to your layout.
 
