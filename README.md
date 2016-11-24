@@ -3,6 +3,7 @@ Easy to implement Captcha Control
 
 To implement in your project modify your app build.gradle and add below lines and sync.
 
+```
 repositories {
     jcenter()
 }
@@ -10,13 +11,15 @@ repositories {
 dependencies {
     compile 'rr.captachcontrollibrary:captachcontrollibrary:0.0.1'
 }
+```
 
 Ones successfully synced, you can add captcha control to your layout.
-
-`<rr.captachcontrollibrary.CaptchaControl
+```
+<rr.captachcontrollibrary.CaptchaControl
  android:layout_width="wrap_content"
  android:layout_height="wrap_content"
- android:id="@+id/captcha_control" />`
+ android:id="@+id/captcha_control" />
+```
 
 Initialize the control in your activity and fragment as you do with other widgest and for checking captcha simply use
 
